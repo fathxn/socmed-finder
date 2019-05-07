@@ -8,4 +8,11 @@ $ cd socmed-finder
 $ python3 socmed_finder.py
 ```
 # additional
-You can add some social media site lists in **sites = ['https://www.site.com']**
+You can also add some social media site lists in:
+```python
+sites = ['https://www.facebook.com/',
+        'https://www.instagram.com/',
+        'https://wwww.ask.fm/',
+        'https://www.twitter.com/',
+        'https://www.pinterest.com/']
+```
