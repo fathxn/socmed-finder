@@ -17,5 +17,5 @@ sites = ['https://www.facebook.com/',
          'https://wwww.ask.fm/',
          'https://www.twitter.com/',
          'https://www.pinterest.com/',
-         'https://www.flickr.com/',]
+         'https://www.flickr.com/']
 ```
