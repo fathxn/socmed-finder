@@ -1,5 +1,5 @@
 # Social Media Finder using Username
-# Coded by Fathan
+# Coded by fathan0x1
 # 06 May 2019
 
 import requests
