@@ -13,9 +13,9 @@ $ python3 socmed_finder.py
 You can also add some social media site lists in:
 ```python
 sites = ['https://www.facebook.com/',
-          'https://www.instagram.com/',
-          'https://wwww.ask.fm/',
-          'https://www.twitter.com/',
-          'https://www.pinterest.com/',
-          'https://www.flickr.com/',]
+         'https://www.instagram.com/',
+         'https://wwww.ask.fm/',
+         'https://www.twitter.com/',
+         'https://www.pinterest.com/',
+         'https://www.flickr.com/',]
 ```
