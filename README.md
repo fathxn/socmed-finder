@@ -7,6 +7,7 @@
 ```sh
 $ git clone https://github.com/fathan0x1/socmed-finder.git
 $ cd socmed-finder
+$ pip3 install -r requirements.txt
 $ python3 socmed_finder.py
 ```
 # additional
