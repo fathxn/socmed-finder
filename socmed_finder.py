@@ -22,7 +22,7 @@ def main(username):
             'https://wwww.ask.fm/',
             'https://www.twitter.com/',
             'https://www.pinterest.com/',
-            'https://www.flickr.com/',]
+            'https://www.flickr.com/']
 
     for i in sites:
         r = requests.get(i+"{}".format(username))
